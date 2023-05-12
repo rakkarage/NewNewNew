@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://bgxcvvwyra6va"]
+
+[ext_resource type="Texture2D" uid="uid://c44s6nq6qpuur" path="res://new_noise_texture_2d.tres" id="1_gmivd"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_gmivd")
